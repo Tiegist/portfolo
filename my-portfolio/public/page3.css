@@ -1,0 +1,123 @@
+.body{
+    background-color: rgb(185, 187, 189);
+    margin-top: 10px;
+}
+
+.lefttnavv{
+    max-width: 250px;
+    background-color: white;
+    box-shadow: 5px 5px 10px rgb(97, 95, 95);
+}
+.groupss{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.settingicon{
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 192, 192);
+    height: 30px;
+    width: 28px;
+    border-radius: 20px;
+    padding-left: 6px;
+    padding-top: 6px;
+}
+.discover{
+    display: flex;
+    justify-content: space-between;
+}
+.dicoversub{
+    margin-top: 15px;
+    font-size: large;
+    margin-left: 10px;
+}
+.discover p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 150px;
+    margin-bottom: 0px;
+}
+.yourgrops{
+    display: flex;
+    justify-content: space-between;
+}
+.groupsub{
+    margin-top: 15px;
+    font-size: large;
+    margin-left: 10px;
+}
+.yourgrops p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 125px;
+}
+.seeingall{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.seeingall p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.see-all-btn{
+    border: none;
+    margin-right: 20px;
+    color: rgb(72, 72, 204);
+    background-color: white;
+}
+
+.groupimgone{
+    width: 40px;
+    margin-left: 10px;
+    border-radius: 2px;
+    margin-top: 30px;
+}
+.firstgroupright{
+     font-size: 12px;
+     max-width: 150px;
+     margin-top: 0px;
+     margin-right: 40px;
+     
+}
+.imgonee{
+    display: flex;
+    justify-content: space-between;
+}
+.p1-part{
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.p1-part p{
+    margin-bottom: 5px;
+}
+.quesonmarkicons{
+    margin-bottom: 0px;
+}
+.p2-part p{
+    margin-top: 5px;
+}
+.firstgroupright{
+    margin-top: 20px;
+}
+.Imagesfourth{
+    height: 20px;
+}
+.wallpapers p{
+    font-size: 12px;
+    font-weight: bold;
+    display: inline;
+    
+}
+.wallpapericon{
+    margin-left: 10px;
+}
+.lastgroupright{
+   max-width: 100px;
+}
+.fourthgroupright{
+    margin-right: 30px;
+}

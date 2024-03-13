@@ -1,0 +1,242 @@
+.profile{
+    margin: 7px;
+    border-radius: 40px;
+    width: 40px;
+    height: 30px;
+
+}
+
+.profilepic{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+}
+.profilepic p{
+    margin-right: 89%;
+    margin-top: 9px;
+}
+.friends{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: aqua;
+}
+.friendsiconn{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.friendsiconn p{
+    margin-right: 94%;
+    margin-top: 12px;
+}
+
+.feed{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: aqua;
+}
+.feediconn{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.feediconn p{
+    margin-right: 95%;
+    margin-top: 14px;
+}
+.emojiicon{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+}
+
+
+.groups{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    border:1px solid blue;
+    border-radius: 20px;
+}
+.groupiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.groupiconn p{
+    margin-right: 94%;
+    margin-top: 10px;
+}
+
+
+.marketplacee{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(40, 151, 114);
+}
+.landmark{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.landmark p{
+    margin-right: 91%;
+    margin-top: 14px;
+}
+
+
+.vedi{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(8, 99, 99);
+}
+.vedioiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.vedioiconn p{
+    margin-right: 95%;
+    margin-top: 10px;
+}
+
+
+.memories{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(22, 122, 122);
+}
+.memoryiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.memoryiconn p{
+    margin-right: 92.5%;
+    margin-top: 10px;
+}
+
+
+.saved{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(138, 59, 59);
+}
+.savediconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.savediconn p{
+    margin-right: 94.5%;
+    margin-top: 12px;
+}
+
+
+.pages{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: orangered;
+}
+.pagesiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.pagesiconn p{
+    margin-right: 94%;
+    margin-top: 10px;
+}
+
+
+.events{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(204, 39, 39);
+}
+.eventsiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.eventsiconn p{
+    margin-right: 94%;
+    margin-top: 12px;
+}
+
+
+.adsmanager{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+    color: rgb(23, 88, 131);
+}
+.addmanagericonn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.addmanagericonn p{
+    margin-right: 90.5%;
+    margin-top: 14px;
+}
+
+
+.seemore{
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-left: 6px;
+    font-size: 20px;
+}
+.seemoreiconn{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    
+}
+.seemoreiconn p{
+    margin-right: 93.5%;
+    margin-top: 10px;
+}
+
+
+
